@@ -12,8 +12,8 @@
                             PROFILE PAGE
                             
                                                                
- █ █ █ █ █ █▀█   █ █▀   █▀▄▀█ ▄█ █▀▄ █▄ █ █ █▀▀ █ █ ▀█▀ █▀▄ █▀▀ █ █
- ▀▄▀▄▀ █▀█ █▄█   █ ▄█   █ ▀ █  █ █▄▀ █ ▀█ █ █▄█ █▀█  █  █▄▀ ██▄ ▀▄▀
+    █ █ █ █ █ █▀█   █ █▀   █▀▄▀█ ▄█ █▀▄ █▄ █ █ █▀▀ █ █ ▀█▀ █▀▄ █▀▀ █ █
+    ▀▄▀▄▀ █▀█ █▄█   █ ▄█   █ ▀ █  █ █▄▀ █ ▀█ █ █▄█ █▀█  █  █▄▀ ██▄ ▀▄▀
  M1dnightdev is a solo developer who aspires to work in game dev
  in the future. he currently knows html, css, and python and is
  currently learning/ wanting to learn java, javascript, and C#.
