@@ -9,7 +9,7 @@
      /    Y    \   / /_/ |   |  \  / /_/  >   Y  \  | / /_/ \  ___/\   / 
      \____|__  /___\____ |___|  /__\___  /|___|  /__| \____ |\___  >\_/  
              \/         \/    \/  /_____/      \/          \/    \/      
-                            PROFILE PAGE
+                              PROFILE PAGE
                             
                                                                
     █ █ █ █ █ █▀█   █ █▀   █▀▄▀█ ▄█ █▀▄ █▄ █ █ █▀▀ █ █ ▀█▀ █▀▄ █▀▀ █ █
@@ -23,8 +23,8 @@
     a good woirkstation for all his needs.
  
                          
-                      █▀ █▀█ █▀▀ █ ▄▀█ █   █▀
-                      ▄█ █▄█ █▄▄ █ █▀█ █▄▄ ▄█
+     █▀ █▀█ █▀▀ █ ▄▀█ █   █▀
+     ▄█ █▄█ █▄▄ █ █▀█ █▄▄ ▄█
     FOLLOW M1DNIGHTDEV HERE:
     replit: https://replit.com/@m1dnightdev
     twitter: https://twitter.com/@m1dnight_ofcl
