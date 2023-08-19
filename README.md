@@ -14,18 +14,16 @@
                                                                
     █ █ █ █ █ █▀█   █ █▀   █▀▄▀█ ▄█ █▀▄ █▄ █ █ █▀▀ █ █ ▀█▀ █▀▄ █▀▀ █ █
     ▀▄▀▄▀ █▀█ █▄█   █ ▄█   █ ▀ █  █ █▄▀ █ ▀█ █ █▄█ █▀█  █  █▄▀ ██▄ ▀▄▀
-    M1dnightdev is a solo developer who aspires to work in game dev
-    in the future. he currently knows html, css, and python and is
-    currently learning/ wanting to learn java, javascript, and C#.
-    both his parents are developers and have worked in the computer 
-    industry for more that 2 and a half decades. he has been
-    accumulating the parts to his setup over years and finally has
-    a good woirkstation for all his needs.
- 
-                         
-     █▀ █▀█ █▀▀ █ ▄▀█ █   █▀
-     ▄█ █▄█ █▄▄ █ █▀█ █▄▄ ▄█
-    FOLLOW M1DNIGHTDEV HERE:
-    replit: https://replit.com/@m1dnightdev
-    twitter: https://twitter.com/@m1dnight_ofcl
-    youtube: https://youtube.com/@m1dnightgmr
+    
+    My name is M1dnight. I am a self-taught python full-stack developer. 
+    I have been coding for a year as off writing this, and am fluent in HTML, 
+    CSS, JS, and Python. I mostly make my own websites using python for 
+    backend but also write windows programs using python too. I also produce 
+    content for youtube. I like to code, game, and make music in my free time.
+                          
+    █   █ █▄ █ █▄▀ █▀
+    █▄▄ █ █ ▀█ █ █ ▄█
+    portfolio: https://portfolio.m2dnight.repl.co
+    replit:    https://replit.com/@m1dnightdev
+    twitter:   https://twitter.com/@m1dnight_ofcl
+    youtube:   https://youtube.com/@m1dnightgmr
