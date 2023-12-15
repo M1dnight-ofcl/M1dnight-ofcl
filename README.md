@@ -12,4 +12,4 @@ I have been coding for a year and a half as of writing this, and absolutly love 
 [Replit](https://replit.com/@m1dnightdev) |
 [Replit Alt](https://replit.com/@m2dnight) |
 [Twitter](https://twitter.com/@m1dnightdev) |
-[Youtube](https://youtube.com/@m1dnightdev) |
+[Youtube](https://youtube.com/@m1dnightdev)
