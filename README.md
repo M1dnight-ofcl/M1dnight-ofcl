@@ -3,7 +3,7 @@
 
 ## Who is M1dnight?
 My name is m1dnight. I am a self taught fullstack with knowledge in:<br>
-**Javascript | React | Python | Lua**
+**Javascript | React | Sass | Python | Lua**
 <br><br>
 I have been coding for a year and a half as of writing this, and absolutly love it. My best projects can be found here, on github!
 
