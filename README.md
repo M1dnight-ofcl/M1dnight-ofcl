@@ -7,6 +7,8 @@ My name is m1dnight. I am a self taught fullstack with knowledge in:<br>
 <br><br>
 I have been coding for a year and a half as of writing this, and absolutly love it. My best projects can be found here, on github!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Links
 [Portfolio](https://m1dnight-ofcl.github.io) |
 [Replit](https://replit.com/@m1dnightdev) |
