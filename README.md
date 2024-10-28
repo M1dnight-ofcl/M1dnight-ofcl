@@ -10,7 +10,7 @@ I have been coding for a year and a half as of writing this, and absolutly love 
 ![M1dnights's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl&show_icons=true&theme=transparent)
 
 ## My Links
-[Portfolio](https://m1dnight-ofcl.github.io) |
+[Portfolio](https://m1dnight.vercel.app) |
 [Replit](https://replit.com/@m1dnightdev) |
 [Replit Alt](https://replit.com/@m2dnight) |
 [Twitter](https://twitter.com/@m1dnightdev) |
