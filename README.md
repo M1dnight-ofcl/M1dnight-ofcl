@@ -4,7 +4,7 @@
 **Javascript | React | Sass | Python | Lua**
 
 ### About Me:
-🥁🎷 I'm a Drummer And Saxophonist outside of coding
+🥁🎷 I'm a Drummer And Saxophonist outside of coding<br/>
 ⏰ I've been coding for ~3-4 years, javascript specifically for ~1-2 years
 
 ![M1dnights's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl&show_icons=true&theme=transparent)
