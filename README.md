@@ -1,11 +1,11 @@
 
-# Hello, I'm M1dnight
-
-## Who is M1dnight?
-My name is m1dnight. I am a self taught fullstack with knowledge in:<br>
+# Hello, I'm Tyler (M1dnight)
+### Experience:
 **Javascript | React | Sass | Python | Lua**
-<br><br>
-I have been coding for a year and a half as of writing this, and absolutly love it. My best projects can be found here, on github!
+
+### About Me:
+🥁🎷 I'm a Drummer And Saxophonist outside of coding
+⏰ I've been coding for ~3-4 years, javascript specifically for ~1-2 years
 
 ![M1dnights's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl&show_icons=true&theme=transparent)
 
