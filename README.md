@@ -8,7 +8,7 @@
 ⏰ I've been coding for ~3-4 years, javascript specifically for ~1-2 years
 
 ![M1dnights's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl&show_icons=true&theme=transparent)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnight-ofcl"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnight-ofcl&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Links
 [Portfolio](https://m1dnight.vercel.app) |
