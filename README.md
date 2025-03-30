@@ -9,7 +9,8 @@
 
 ![M1dnights's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1dnight-ofcl&show_icons=true&theme=transparent)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnight-ofcl&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
--- kinda innacurate cuz  all my project are react projects :skull:
+-- kinda innacurate cuz  all my project are react projects :skull:<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beansite-dev&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Links
 [Portfolio](https://m1dnight.vercel.app) |
