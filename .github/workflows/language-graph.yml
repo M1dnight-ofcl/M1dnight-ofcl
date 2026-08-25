@@ -1,0 +1,29 @@
+name: Update language graph
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 06:00 UTC
+  workflow_dispatch: {}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Aggregate languages and render SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.LANG_GRAPH_TOKEN }}
+        run: node scripts/aggregate-languages.mjs
+
+      - name: Commit if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update language graph'
+          file_pattern: profile/language-stats.svg
