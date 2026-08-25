@@ -14,6 +14,7 @@ const HEADERS={Authorization:`Bearer ${TOKEN}`,Accept:'application/vnd.github+js
 
 const EXCLUDE_REPOS=new Set([
   "Beansite-Dev/games",
+  "Beansite-Dev/GUST-React",
 ]); // add 'owner/repo' entries here to skip forks-of-forks, archives, etc.
 const OUT_SVG='profile/language-stats.svg';
 const TOP_N=8;
