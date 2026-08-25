@@ -16,6 +16,7 @@ const EXCLUDE_REPOS=new Set([
   "Beansite-Dev/games",
   "Beansite-Dev/GUST-React",
 ]); // add 'owner/repo' entries here to skip forks-of-forks, archives, etc.
+const EXCLUDE_LANGUAGES=new Set(['HTML']); // add more (e.g. 'CSS', 'SCSS') to drop them from the totals entirely
 const OUT_SVG='profile/language-stats.svg';
 const TOP_N=8;
 
@@ -52,7 +53,10 @@ async function aggregate(){
     const repos=await listRepos(name,type);
     for(const repo of repos){
       const langs=await getLanguages(name,repo);
-      for(const [lang,bytes] of Object.entries(langs)) totals[lang]=(totals[lang]??0)+bytes;
+      for(const [lang,bytes] of Object.entries(langs)){
+        if(EXCLUDE_LANGUAGES.has(lang)) continue;
+        totals[lang]=(totals[lang]??0)+bytes;
+      }
       await new Promise(r=>setTimeout(r,120)); // stay well under the secondary rate limit
     }
   }
