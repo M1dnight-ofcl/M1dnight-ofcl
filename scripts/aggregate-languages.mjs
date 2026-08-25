@@ -12,7 +12,9 @@ const TOKEN=process.env.GITHUB_TOKEN;
 if(!TOKEN) throw new Error('GITHUB_TOKEN is required');
 const HEADERS={Authorization:`Bearer ${TOKEN}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28'};
 
-const EXCLUDE_REPOS=new Set([]); // add 'owner/repo' entries here to skip forks-of-forks, archives, etc.
+const EXCLUDE_REPOS=new Set([
+  "Beansite-Dev/games",
+]); // add 'owner/repo' entries here to skip forks-of-forks, archives, etc.
 const OUT_SVG='profile/language-stats.svg';
 const TOP_N=8;
 
