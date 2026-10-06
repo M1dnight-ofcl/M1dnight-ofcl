@@ -3,7 +3,7 @@
 
 const OWNERS=[
   {name:'M1dnight-ofcl',type:'user'},
-  {name:'Flux-Macro',type:'org'},
+  {name:'Tricho-Dev',type:'org'},
   {name:'Beansite-Dev',type:'org'},
   {name:'Klorine-Dev',type:'org'},
 ];
