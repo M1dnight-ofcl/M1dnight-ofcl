@@ -16,7 +16,7 @@ const EXCLUDE_REPOS=new Set([
   "Beansite-Dev/games",
   "Beansite-Dev/GUST-React",
 ]); // add 'owner/repo' entries here to skip forks-of-forks, archives, etc.
-const EXCLUDE_LANGUAGES=new Set(['HTML']); // add more (e.g. 'CSS', 'SCSS') to drop them from the totals entirely
+const EXCLUDE_LANGUAGES=new Set(['HTML','Python','Cython']); // add more (e.g. 'CSS', 'SCSS') to drop them from the totals entirely
 const OUT_SVG='profile/language-stats.svg';
 const TOP_N=8;
 
